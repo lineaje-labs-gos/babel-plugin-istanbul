@@ -1,8 +1,14 @@
 {
   "name": "babel-plugin-istanbul",
-  "version": "4.1.6",
+  "version": "4.1.6-lineaje-01",
   "author": "Thai Pangsakulyanont @dtinth",
   "license": "BSD-3-Clause",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "description": "A babel plugin that adds istanbul instrumentation to ES6 code",
   "main": "lib/index.js",
   "files": [
@@ -43,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/istanbuljs/babel-plugin-istanbul.git"
+    "url": "https://github.com/lineaje-labs-gos/babel-plugin-istanbul"
   },
   "keywords": [
     "istanbul",
