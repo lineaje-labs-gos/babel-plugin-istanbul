@@ -34,7 +34,8 @@
     "standard": "^9.0.2",
     "standard-version": "^4.0.0",
     "micromatch": "4.0.8",
-    "babel-traverse": "7.23.2"
+    "babel-traverse": "7.23.2",
+    "braces": "3.0.3"
   },
   "scripts": {
     "coverage": "nyc report --reporter=text-lcov | coveralls",
